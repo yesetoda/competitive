@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
 <!---LeetCode Topics End-->
