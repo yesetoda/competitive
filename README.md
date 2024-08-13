@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 <!---LeetCode Topics End-->
