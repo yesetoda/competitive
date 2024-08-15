@@ -1,34 +1,29 @@
-type change struct{
-    five int
-    ten int
-    twenty int
-}
+
 func lemonadeChange(bills []int) bool {
-    ch := change{}
+    ch := make(map[int]int)
     for _,i:= range bills{
-        fmt.Println(ch)
         if i == 5{
-            ch.five+=1
+            ch[i]+=1
         }else if i == 10{
-            if ch.five>0{
-                ch.five -= 1
-                ch.ten+=1
+            if ch[5]>0{
+                ch[5] -= 1
+                ch[10]+=1
             }else{
                 return false
             }
         }else{
             rem := i-5
             times := rem/10
-            if ch.ten>= times{
-                ch.ten -= times
-                if ch.five>0{
-                    ch.five-=1
+            if ch[10]>= times{
+                ch[10] -= times
+                if ch[5]>0{
+                    ch[5]-=1
                 }else{
                     return false
                 }
             }else{
-                if rem/5<= ch.five{
-                    ch.five -= rem/5
+                if rem/5<= ch[5]{
+                    ch[5] -= rem/5
                 }else{
                     return false
                 }
