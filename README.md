@@ -52,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
+| [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->
