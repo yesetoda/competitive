@@ -9,14 +9,17 @@ class Node:
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
         ans = []
-        def traverse(root):
-            if root:
-                # print("this is the root",root.val)
-                for i in root.children:
-                    traverse(i)
-                    ans.append(i.val)
-                
-        traverse(root)
-        if root:
-            ans.append(root.val)
+        q = [root]
+        seen = set()
+        while q:
+            while q and q[-1] and len(q[-1].children)>0:
+                if not q[-1] in seen:
+                    seen.add(q[-1])
+                    q.extend(q[-1].children[::-1])
+                else:
+                    ans.append(q.pop().val)
+            else:
+                if q and q[-1]:
+                    ans.append(q.pop().val)
+                else:break
         return ans
