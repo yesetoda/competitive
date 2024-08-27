@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
+| [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 ## Binary Search
 |  |
 | ------- |
@@ -85,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
+## String
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
+## Simulation
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
