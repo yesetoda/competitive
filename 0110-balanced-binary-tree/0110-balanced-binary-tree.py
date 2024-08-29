@@ -9,8 +9,8 @@ class Solution:
         ans = True
         def dfs(node):
             nonlocal ans
-            if not ans:
-                return 0
+            # if not ans:
+            #     return 0
             if node:
                 l = r = 0
                 if node.left:
@@ -20,7 +20,7 @@ class Solution:
                 val = abs(l-r)
                 if val >1:
                     ans = False
-                    return 0
+                    # return 0
                 return max(l,r)
         dfs(root)
         return ans
