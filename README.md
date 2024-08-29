@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 ## Matrix
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
