@@ -12,7 +12,6 @@ class Solution:
             if not ans:
                 return
             if node:
-                print(mn,node.val,mx)
                 if node.val<=mn or node.val>=mx:
                     ans = False
                     return
