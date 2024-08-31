@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yesetoda/competitive/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yesetoda/competitive/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yesetoda/competitive/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yesetoda/competitive/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/yesetoda/competitive/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yesetoda/competitive/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/yesetoda/competitive/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/yesetoda/competitive/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
