@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yesetoda/competitive/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/yesetoda/competitive/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/yesetoda/competitive/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yesetoda/competitive/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yesetoda/competitive/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
