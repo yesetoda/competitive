@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yesetoda/competitive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
+| [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yesetoda/competitive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yesetoda/competitive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
