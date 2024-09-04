@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yesetoda/competitive/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/yesetoda/competitive/tree/master/0257-binary-tree-paths) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
@@ -248,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/yesetoda/competitive/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
