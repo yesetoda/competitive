@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
 ## Depth-First Search
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yesetoda/competitive/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Trie
