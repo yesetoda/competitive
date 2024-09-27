@@ -1,21 +1,20 @@
 class Solution:
     def validStrings(self, n: int) -> List[str]:
-        ans = []
-        def rec(n,path):
-            if n == 0:
-                ans.append("".join(path))
-                return 
-            for i in range(2):
-                if path and path[-1] == "0":
-                    if i == 0:
-                        pass
-                    else:
-                        path.append(str(i))
-                        rec(n-1,path)
-                        path.pop()
+        ans = deque([["0"],["1"]])
+        while n-1>0:
+            leng = len(ans)
+            for i in range(leng):
+                cur = ans.popleft()
+                if cur[-1] == "0":
+                    cur.append("1")
+                    ans.append(cur)
                 else:
-                    path.append(str(i))
-                    rec(n-1,path)
-                    path.pop()
-        rec(n,[])
-        return ans
+                    ans.append(cur+["0"])
+                    ans.append(cur+["1"])
+            n-=1
+        out = []
+        for i in ans:
+            out.append("".join(i))
+
+
+        return out
