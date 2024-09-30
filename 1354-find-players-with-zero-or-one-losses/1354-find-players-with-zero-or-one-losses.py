@@ -9,17 +9,12 @@ class Solution:
                     no_loss.remove(i[0])
             else:
                 no_loss.add(i[0])  
-
-            if i[1] in no_loss:
-                if i[1] in no_loss:
-                    no_loss.remove(i[1])
-            
-                    
+            if i[1] in no_loss and i[1] in no_loss:
+                no_loss.remove(i[1])
             if i[1] in one_loss:
                 one_loss.remove(i[1])
                 more_loss.add(i[1])
-            else:
-                if not i[1] in more_loss:
-                    one_loss.add(i[1])
+            elif not i[1] in more_loss:
+                one_loss.add(i[1])
         return [sorted(no_loss),sorted(one_loss)]
         
