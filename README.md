@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/yesetoda/competitive/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yesetoda/competitive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yesetoda/competitive/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/yesetoda/competitive/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Tree
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/yesetoda/competitive/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/yesetoda/competitive/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
 ## Binary Search Tree
 |  |
