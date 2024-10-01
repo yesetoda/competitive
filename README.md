@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
