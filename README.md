@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/yesetoda/competitive/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yesetoda/competitive/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yesetoda/competitive/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yesetoda/competitive/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yesetoda/competitive/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
 ## Counting
