@@ -7,7 +7,11 @@ class Solution:
         root2  = (-1 - part)/2
         ans = int(max(root1,root2))
         val = ans*(ans+1)//2
-        while val<target or (target-val)%2:
+        cnt = 0
+        for _ in range(3):
+            if val>=target and (val-target)%2==0:
+                break
             ans+=1
             val = ans*(ans+1)//2
+
         return ans
