@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
+| [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yesetoda/competitive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yesetoda/competitive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
+| [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
 | ------- |
