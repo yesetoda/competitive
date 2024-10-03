@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yesetoda/competitive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/yesetoda/competitive/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
 ## Union Find
 |  |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yesetoda/competitive/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/yesetoda/competitive/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0859-design-circular-deque](https://github.com/yesetoda/competitive/tree/master/0859-design-circular-deque) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/yesetoda/competitive/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yesetoda/competitive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yesetoda/competitive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Topological Sort
