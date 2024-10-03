@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yesetoda/competitive/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yesetoda/competitive/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/yesetoda/competitive/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yesetoda/competitive/tree/master/0073-set-matrix-zeroes) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
