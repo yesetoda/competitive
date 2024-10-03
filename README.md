@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
+| [0755-reach-a-number](https://github.com/yesetoda/competitive/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
+| [0755-reach-a-number](https://github.com/yesetoda/competitive/tree/master/0755-reach-a-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yesetoda/competitive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
 ## Stack
