@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/yesetoda/competitive/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0755-reach-a-number](https://github.com/yesetoda/competitive/tree/master/0755-reach-a-number) |
