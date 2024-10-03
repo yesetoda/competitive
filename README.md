@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yesetoda/competitive/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yesetoda/competitive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Binary Search
 |  |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yesetoda/competitive/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yesetoda/competitive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
