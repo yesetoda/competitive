@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/yesetoda/competitive/tree/master/0859-design-circular-deque) |
+| [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/yesetoda/competitive/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 ## Memoization
 |  |
 | ------- |
