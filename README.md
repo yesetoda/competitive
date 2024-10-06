@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Backtracking
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
+| [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Shortest Path
 |  |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
+| [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
 ## Sorting
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yesetoda/competitive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1675-magnetic-force-between-two-balls](https://github.com/yesetoda/competitive/tree/master/1675-magnetic-force-between-two-balls) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
+| [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yesetoda/competitive/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/yesetoda/competitive/tree/master/3485-maximize-score-of-numbers-in-ranges) |
