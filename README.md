@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yesetoda/competitive/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
+| [0137-single-number-ii](https://github.com/yesetoda/competitive/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/yesetoda/competitive/tree/master/0137-single-number-ii) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
