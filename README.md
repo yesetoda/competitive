@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yesetoda/competitive/tree/master/0050-powx-n) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yesetoda/competitive/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/yesetoda/competitive/tree/master/0050-powx-n) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yesetoda/competitive/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yesetoda/competitive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
