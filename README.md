@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0744-network-delay-time](https://github.com/yesetoda/competitive/tree/master/0744-network-delay-time) |
+| [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yesetoda/competitive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
+| [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/yesetoda/competitive/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yesetoda/competitive/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/yesetoda/competitive/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yesetoda/competitive/tree/master/2076-sum-of-digits-of-string-after-convert) |
