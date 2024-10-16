@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yesetoda/competitive/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/yesetoda/competitive/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/yesetoda/competitive/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/yesetoda/competitive/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yesetoda/competitive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yesetoda/competitive/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/yesetoda/competitive/tree/master/0062-unique-paths) |
 | [0264-ugly-number-ii](https://github.com/yesetoda/competitive/tree/master/0264-ugly-number-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
@@ -455,5 +457,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/yesetoda/competitive/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/yesetoda/competitive/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
