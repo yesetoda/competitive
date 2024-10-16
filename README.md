@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yesetoda/competitive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2187-vowels-of-all-substrings](https://github.com/yesetoda/competitive/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yesetoda/competitive/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Matrix
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
 | [2187-vowels-of-all-substrings](https://github.com/yesetoda/competitive/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yesetoda/competitive/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2645-pass-the-pillow](https://github.com/yesetoda/competitive/tree/master/2645-pass-the-pillow) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yesetoda/competitive/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yesetoda/competitive/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -459,4 +461,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/yesetoda/competitive/tree/master/0062-unique-paths) |
 | [2187-vowels-of-all-substrings](https://github.com/yesetoda/competitive/tree/master/2187-vowels-of-all-substrings) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/yesetoda/competitive/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 <!---LeetCode Topics End-->
