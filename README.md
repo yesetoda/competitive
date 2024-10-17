@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/yesetoda/competitive/tree/master/0397-integer-replacement) |
 | [0624-maximum-distance-in-arrays](https://github.com/yesetoda/competitive/tree/master/0624-maximum-distance-in-arrays) |
+| [0670-maximum-swap](https://github.com/yesetoda/competitive/tree/master/0670-maximum-swap) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [0890-lemonade-change](https://github.com/yesetoda/competitive/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
+| [0670-maximum-swap](https://github.com/yesetoda/competitive/tree/master/0670-maximum-swap) |
 | [0755-reach-a-number](https://github.com/yesetoda/competitive/tree/master/0755-reach-a-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
