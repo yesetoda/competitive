@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/yesetoda/competitive/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/yesetoda/competitive/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/yesetoda/competitive/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yesetoda/competitive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1197-parsing-a-boolean-expression](https://github.com/yesetoda/competitive/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/yesetoda/competitive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/yesetoda/competitive/tree/master/0050-powx-n) |
+| [1197-parsing-a-boolean-expression](https://github.com/yesetoda/competitive/tree/master/1197-parsing-a-boolean-expression) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/yesetoda/competitive/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yesetoda/competitive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
