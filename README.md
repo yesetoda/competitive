@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/yesetoda/competitive/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yesetoda/competitive/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yesetoda/competitive/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yesetoda/competitive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yesetoda/competitive/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yesetoda/competitive/tree/master/2411-spiral-matrix-iv) |
 ## Heap (Priority Queue)
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yesetoda/competitive/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
 ## Greedy
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/yesetoda/competitive/tree/master/2035-count-sub-islands) |
 | [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yesetoda/competitive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yesetoda/competitive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yesetoda/competitive/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Shortest Path
 |  |
@@ -289,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yesetoda/competitive/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/yesetoda/competitive/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yesetoda/competitive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yesetoda/competitive/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## String
 |  |
 | ------- |
