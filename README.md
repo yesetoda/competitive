@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yesetoda/competitive/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0988-flip-equivalent-binary-trees](https://github.com/yesetoda/competitive/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/yesetoda/competitive/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/yesetoda/competitive/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0988-flip-equivalent-binary-trees](https://github.com/yesetoda/competitive/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yesetoda/competitive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/yesetoda/competitive/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/yesetoda/competitive/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/yesetoda/competitive/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0988-flip-equivalent-binary-trees](https://github.com/yesetoda/competitive/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/yesetoda/competitive/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/yesetoda/competitive/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yesetoda/competitive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
