@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1197-parsing-a-boolean-expression](https://github.com/yesetoda/competitive/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/yesetoda/competitive/tree/master/1304-longest-happy-string) |
+| [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/yesetoda/competitive/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/yesetoda/competitive/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -507,4 +508,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yesetoda/competitive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/yesetoda/competitive/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/yesetoda/competitive/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
