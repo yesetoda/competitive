@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/yesetoda/competitive/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yesetoda/competitive/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2187-vowels-of-all-substrings](https://github.com/yesetoda/competitive/tree/master/2187-vowels-of-all-substrings) |
+| [2275-find-substring-with-given-hash-value](https://github.com/yesetoda/competitive/tree/master/2275-find-substring-with-given-hash-value) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yesetoda/competitive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yesetoda/competitive/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yesetoda/competitive/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/yesetoda/competitive/tree/master/0567-permutation-in-string) |
+| [2275-find-substring-with-given-hash-value](https://github.com/yesetoda/competitive/tree/master/2275-find-substring-with-given-hash-value) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -513,8 +515,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
+| [2275-find-substring-with-given-hash-value](https://github.com/yesetoda/competitive/tree/master/2275-find-substring-with-given-hash-value) |
 ## Hash Function
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
+| [2275-find-substring-with-given-hash-value](https://github.com/yesetoda/competitive/tree/master/2275-find-substring-with-given-hash-value) |
 <!---LeetCode Topics End-->
