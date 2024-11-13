@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/yesetoda/competitive/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/yesetoda/competitive/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yesetoda/competitive/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/yesetoda/competitive/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/yesetoda/competitive/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yesetoda/competitive/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/yesetoda/competitive/tree/master/1675-magnetic-force-between-two-balls) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yesetoda/competitive/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2512-longest-uploaded-prefix](https://github.com/yesetoda/competitive/tree/master/2512-longest-uploaded-prefix) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yesetoda/competitive/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/yesetoda/competitive/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Stack
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/yesetoda/competitive/tree/master/2213-find-all-people-with-secret) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/yesetoda/competitive/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yesetoda/competitive/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/yesetoda/competitive/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/yesetoda/competitive/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Counting
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/yesetoda/competitive/tree/master/0567-permutation-in-string) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/yesetoda/competitive/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Number Theory
 |  |
 | ------- |
