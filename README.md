@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/yesetoda/competitive/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
+| [0283-move-zeroes](https://github.com/yesetoda/competitive/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/yesetoda/competitive/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yesetoda/competitive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/yesetoda/competitive/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/yesetoda/competitive/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/yesetoda/competitive/tree/master/0567-permutation-in-string) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
