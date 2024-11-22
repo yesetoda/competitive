@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yesetoda/competitive/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yesetoda/competitive/tree/master/0731-my-calendar-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/yesetoda/competitive/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/yesetoda/competitive/tree/master/0859-design-circular-deque) |
 | [0881-loud-and-rich](https://github.com/yesetoda/competitive/tree/master/0881-loud-and-rich) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/yesetoda/competitive/tree/master/0592-fraction-addition-and-subtraction) |
 | [0686-repeated-string-match](https://github.com/yesetoda/competitive/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/yesetoda/competitive/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/yesetoda/competitive/tree/master/0841-shortest-distance-to-a-character) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yesetoda/competitive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yesetoda/competitive/tree/master/1026-string-without-aaa-or-bbb) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yesetoda/competitive/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/yesetoda/competitive/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/yesetoda/competitive/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/yesetoda/competitive/tree/master/0567-permutation-in-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/yesetoda/competitive/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yesetoda/competitive/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yesetoda/competitive/tree/master/2699-count-the-number-of-fair-pairs) |
