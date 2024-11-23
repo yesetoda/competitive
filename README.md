@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/yesetoda/competitive/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/yesetoda/competitive/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yesetoda/competitive/tree/master/0283-move-zeroes) |
 | [0307-range-sum-query-mutable](https://github.com/yesetoda/competitive/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/yesetoda/competitive/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
+| [0274-h-index](https://github.com/yesetoda/competitive/tree/master/0274-h-index) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
@@ -544,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/yesetoda/competitive/tree/master/1508-longest-happy-prefix) |
 | [2275-find-substring-with-given-hash-value](https://github.com/yesetoda/competitive/tree/master/2275-find-substring-with-given-hash-value) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/yesetoda/competitive/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
