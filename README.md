@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/yesetoda/competitive/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/yesetoda/competitive/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/yesetoda/competitive/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yesetoda/competitive/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/yesetoda/competitive/tree/master/0283-move-zeroes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yesetoda/competitive/tree/master/0731-my-calendar-ii) |
