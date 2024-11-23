@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/yesetoda/competitive/tree/master/0318-maximum-product-of-word-lengths) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yesetoda/competitive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yesetoda/competitive/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0436-find-right-interval](https://github.com/yesetoda/competitive/tree/master/0436-find-right-interval) |
 | [0529-minesweeper](https://github.com/yesetoda/competitive/tree/master/0529-minesweeper) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/yesetoda/competitive/tree/master/0624-maximum-distance-in-arrays) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yesetoda/competitive/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0400-nth-digit](https://github.com/yesetoda/competitive/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/yesetoda/competitive/tree/master/0436-find-right-interval) |
 | [0729-my-calendar-i](https://github.com/yesetoda/competitive/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/yesetoda/competitive/tree/master/0731-my-calendar-ii) |
 | [0755-reach-a-number](https://github.com/yesetoda/competitive/tree/master/0755-reach-a-number) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yesetoda/competitive/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/yesetoda/competitive/tree/master/0164-maximum-gap) |
 | [0274-h-index](https://github.com/yesetoda/competitive/tree/master/0274-h-index) |
+| [0436-find-right-interval](https://github.com/yesetoda/competitive/tree/master/0436-find-right-interval) |
 | [0539-minimum-time-difference](https://github.com/yesetoda/competitive/tree/master/0539-minimum-time-difference) |
 | [0853-most-profit-assigning-work](https://github.com/yesetoda/competitive/tree/master/0853-most-profit-assigning-work) |
 | [1256-rank-transform-of-an-array](https://github.com/yesetoda/competitive/tree/master/1256-rank-transform-of-an-array) |
