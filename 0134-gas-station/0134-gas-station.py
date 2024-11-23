@@ -15,11 +15,9 @@ class Solution:
                     sm -= path.popleft()
                     l+=1
                     if l == leng:
-                        l = -1
-                        break
+                        return -1
             if len(path) == leng and sm>=0:
-                break
-        return l
+                return l
         
 
             
